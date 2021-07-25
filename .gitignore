@@ -1,0 +1,12 @@
+
+.idea/vcs.xml
+.idea/project-template.xml
+*.xml
+out/production/interview-practice/test/java/addTwoHugeNumbersTest.class
+out/production/interview-practice/general/Main.class
+out/production/interview-practice/general/likedList/removeKFromListTest.class
+out/production/interview-practice/general/likedList/ListNode.class
+out/production/interview-practice/general/likedList/addTwoHugeNumbers.class
+out/production/interview-practice/chalenges/isAdmissibleOverpayment.class
+interview-practice.iml
+.idea/description.html
